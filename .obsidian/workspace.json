@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "24ed337e1f361a10",
+        "id": "5e1d779ce03c26ee",
         "type": "tabs",
         "children": [
           {
-            "id": "1c2ba51d342fec6e",
+            "id": "2056ec28157b2181",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "方法相关.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "方法相关"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "方法相关.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "方法相关 的大纲"
             }
           },
           {
@@ -176,16 +181,32 @@
   },
   "active": "9763f364499d9bd9",
   "lastOpenFiles": [
+    "总列表.md",
+    "方法相关.md",
     "数据相关.md",
-    "超分.md",
-    "列表.md",
+    "paper_readings/Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution.md",
+    "paper_readings/Upscale-A-Video Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution.md",
     "video.md",
     "可控.md",
+    "超分.md",
+    "paper_readings/A Simple Baseline for Video Restoration with Grouped Spatial-temporal Shift.md",
+    "paper_readings/VideoGigaGAN Towards Detail-rich Video Super-Resolution.md",
+    "paper_readings/Continuous Optical Zooming A Benchmark for Arbitrary-Scale Image Super-Resolution in Real World.md",
+    "paper_readings/Image superresolution via iterative refinement.md",
+    "paper_readings/Toward interactive modulation for photo-realistic image restoration.md",
+    "paper_readings/Toward a controllable feature space for image restoration.md",
+    "paper_readings/Real-time Controllable Denoising for Image and Video.md",
     "paper_readings/A video restoration transformer.md",
     "paper_readings/Unsupervised deep video denoising.md",
     "paper_readings/Towards real-time deep video denoising without flow estimation.md",
-    "paper_readings/Physics-based noise modeling for extreme low-light photography.md",
-    "paper_readings/EL2NM.md",
+    "paper_readings/Self-supervised training for blind multi-frame video denoising.md",
+    "paper_readings/Lightweight Video Denoising using Aggregated Shifted Window Attention.md",
+    "paper_readings/Temporally consistent transformer for video denoising.md",
+    "paper_readings/C2N Practical Generative Noise Modeling for Real-World Denoising.md",
+    "paper_readings/Real-ESRGAN Training Real-World Blind Super-Resolution with Pure Synthetic Data.md",
+    "paper_readings/Contextual colorization and denoising for low-light ultra high resolution sequences.md",
+    "paper_readings/Rethinking noise synthesis and modeling in raw denoising.md",
+    "paper_readings/Learnability enhancement for low-light raw denoising.md",
     "paper_readings",
     "papers/Qin_EL2NM_Extremely_Low-light_Noise_Modeling_Through_Diffusion_Iteration_CVPRW_2024_paper.pdf",
     "papers"
